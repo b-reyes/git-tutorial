@@ -1,3 +1,9 @@
 # Welcome to my repo!
 
-My name is Brandon. I like to hike!
+My name is Brandon.
+
+
+## My hobbies
+
+- hike 
+- computers
